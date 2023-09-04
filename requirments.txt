@@ -1,0 +1,6 @@
+easyocr
+ArabicOCR
+opencv
+pytesseract
+fuzzywuzzy
+matplotlib
